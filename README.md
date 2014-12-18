@@ -5,6 +5,36 @@ This repository contains some papers, my thesis and other publications i would l
 
 Non peer reviewed publications:
 * Harald Steinlechner, **Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**, *2014*, Master thesis, Vienna University of Technology, [thesis: papers/AttributeGrammarsForSceneGraphs.pdf](/papers/AttributeGrammarsForSceneGraphs.pdf)
+
+abstract:
+Three dimensional scenes are typically structured in a hierarchical way. 
+This leads to scene graphs as a common central structure for the representation of virtual content. 
+Although the concept of scene graphs is versatile and powerful, it has severe drawbacks.
+Firstly, due to its hierarchical nature the communication between related nodes is cumbersome.
+Secondly, changes in the virtual content make it necessary to traverse the whole scene graph at each frame. 
+Although caching mechanisms for scene graphs have been proposed, none of them work for dynamic 
+scenes with arbitrary changes.
+Thirdly, state-of-the-art scene graph systems are limited in terms of extensibility.
+Extending framework code with new node types usually requires the users to modify traversals and
+the implementations of other nodes.
+In this work, we use *attribute grammars* as underlying mechanism for specifying
+scene graph semantics. 
+We propose an embedded domain specific language for specifying scene graph semantics,
+which elegantly solves the extensibility problem.
+Attribute grammars provide well-founded mechanisms for communication between related nodes and
+significantly reduce glue code for composing scene graph semantics.
+The declarative nature of attribute grammars allows for side-effect free formulation
+of scene graph semantics, which gives raise for incremental evaluation.
+
+In contrast to previous work we use an expressive computation model for attribute grammar evaluation
+which handles fully dynamic scene graph semantics while allowing for efficient *incremental evaluation*.
+
+We introduce all necessary mechanisms for integrating incremental scene graph 
+semantics with traditional rendering backends.
+In our evaluation we show reduced development effort for standard scene graph
+nodes. In addition to optimality proofs we show that our system is indeed
+incremental and outperforms traditional scene graph systems in dynamic scenes.
+
 * Severin Gassler, Georg Haaser, Harald Steinlechner, Manuel Wieser, **AUGUSTUS - Wirtschaftssimulation mittels Stategiespiel - Künstliche Intelligenz**, *2007*, High school project thesis, HTL Anichstraße, Innsbruck, Austria, [thesis: papers/Augustus_Diplomarbeit_Small.pdf](/papers/Augustus_Diplomarbeit_Small.pdf)
 
 Peer reviewed publications:
