@@ -4,7 +4,7 @@ A collection of my latest publications
 This repository contains some papers, my thesis and other publications i would like to share with the world. All peer reviewed work is preprint only - the definite verison of the peer reviewed papers can be accessed via dl.acm.org. 
 
 Non peer reviewed publications:
-* Harald Steinlechner, **Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**, *2014*, Master thesis, Vienna University of Technology.
+* Harald Steinlechner, **Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**, *2014*, Master thesis, Vienna University of Technology, [thesis: papers/AttributeGrammarsForSceneGraphs.pdf](/papers/AttributeGrammarsForSceneGraphs.pdf)
 * Severin Gassler, Georg Haaser, Harald Steinlechner, Manuel Wieser, **AUGUSTUS - Wirtschaftssimulation mittels Stategiespiel - Künstliche Intelligenz**, *2007*, High school project thesis, HTL Anichstraße, Innsbruck, Austria.
 
 Peer reviewed publications:
