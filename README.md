@@ -13,7 +13,7 @@ Peer reviewed publications:
 * Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **CoSMo: Intent-based Composition of Shader Modules**, Proceedings of International Conference on Computer Graphics Theory and Applications (Grapp 2014), [preprint: papers/Cosmo.pdf](/papers/Cosmo.pdf), print: http://www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004687201890199
 
 
-Thesis abstract
+**Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**
 ========
 Three dimensional scenes are typically structured in a hierarchical way. 
 This leads to scene graphs as a common central structure for the representation of virtual content. 
@@ -42,4 +42,6 @@ semantics with traditional rendering backends.
 In our evaluation we show reduced development effort for standard scene graph
 nodes. In addition to optimality proofs we show that our system is indeed
 incremental and outperforms traditional scene graph systems in dynamic scenes.
+
+[thesis: papers/AttributeGrammarsForSceneGraphs.pdf](/papers/AttributeGrammarsForSceneGraphs.pdf)
 
