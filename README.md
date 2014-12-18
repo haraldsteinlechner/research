@@ -5,7 +5,7 @@ This repository contains some papers, my thesis and other publications i would l
 
 Non peer reviewed publications:
 * Harald Steinlechner, **Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**, *2014*, Master thesis, Vienna University of Technology, [thesis: papers/AttributeGrammarsForSceneGraphs.pdf](/papers/AttributeGrammarsForSceneGraphs.pdf) 
-* Harald Steinlechner, **Compiling F# Functions for GPUs**, Bachelors thesis, Vienna University of Technology, [thesis: papers/AttributeGrammarsForSceneGraphs.pdf](/papers/FSharpForGPUs.pdf) 
+* Harald Steinlechner, **Compiling F# Functions for GPUs**, Bachelors thesis, Vienna University of Technology, [thesis: papers/FSharpForGPUs.pdf](/papers/FSharpForGPUs.pdf) 
 
 
 Peer reviewed publications:
