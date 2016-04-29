@@ -6,7 +6,7 @@ This repository contains some papers, my thesis and other publications i would l
 
 Peer reviewed publications:
 --------------------------
-* Georg Haaser, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **An Incremental Rendering VM**, to appear at HPG '15 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/AnIncrementalRenderingVM.pdf](/papers/AnIncrementalRenderingVM.pdf)
+* Georg Haaser, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **An Incremental Rendering VM**, to appear at HPG '15 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/AnIncrementalRenderingVM.pdf](/papers/AnIncrementalRenderingVM.pdf) print: http://dl.acm.org/citation.cfm?id=2790073
 
 * Bernhard Urban, Harald Steinlechner, **Implementation of a Java Just-In-Time Compiler in Haskell**, PPPJ '13 Proceedings of the *2013* International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools, [preprint: papers/MateVM.pdf](/papers/MateVM.pdf), [preprint, bernhards server](http://wien.tomnetworks.com/uni/2013_pppj_implementing_a_java_jit_compiler_in_haskell.pdf), print: http://dl.acm.org/citation.cfm?id=2500849
 
