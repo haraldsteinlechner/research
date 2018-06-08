@@ -35,7 +35,7 @@ Very old high school project thesis prior to my studies in CS:
 * Severin Gassler, Georg Haaser, Harald Steinlechner, Manuel Wieser, **AUGUSTUS - Wirtschaftssimulation mittels Stategiespiel - Künstliche Intelligenz**, *2007*, High school project thesis, HTL Anichstraße, Innsbruck, Austria, [thesis: papers/Augustus_Diplomarbeit_Small.pdf](/papers/Augustus_Diplomarbeit_Small.pdf)
 
 
-**Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**
+** Thesis: Attribute Grammars for Incremental Evaluation of Scene Graph Semantics**
 ========
 Three dimensional scenes are typically structured in a hierarchical way. 
 This leads to scene graphs as a common central structure for the representation of virtual content. 
