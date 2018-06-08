@@ -6,6 +6,11 @@ This repository contains some papers, my thesis and other publications i would l
 
 Peer reviewed publications:
 --------------------------
+* Andreas Walch, Christian Luksch, Attila Szabo, Harald Steinlechner, Georg Haaser, Michael
+Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements with Real-Time Visualization” In: Proceedings of CGI 2018
+
+* Ortner, T, Sorger, J, Steinlechner, H, Hesina, G, Piringer, H, Gröller, E, “Vis-A-Ware: Integrating Spatial and Non-Spatial Visualization for Visibility-Aware Urban Planning”. In: IEEE Transactions on Visualization and Computer Graphics 2016 (2016).
+
 * Georg Haaser, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **An Incremental Rendering VM**, to appear at HPG '15 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/AnIncrementalRenderingVM.pdf](/papers/AnIncrementalRenderingVM.pdf) print: http://dl.acm.org/citation.cfm?id=2790073
 
 * Bernhard Urban, Harald Steinlechner, **Implementation of a Java Just-In-Time Compiler in Haskell**, PPPJ '13 Proceedings of the *2013* International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools, [preprint: papers/MateVM.pdf](/papers/MateVM.pdf), [preprint, bernhards server](http://wien.tomnetworks.com/uni/2013_pppj_implementing_a_java_jit_compiler_in_haskell.pdf), print: http://dl.acm.org/citation.cfm?id=2500849
