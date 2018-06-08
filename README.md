@@ -20,7 +20,7 @@ Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements wit
   [Talk at HPG 2013](/papers/LazyIncrementalComputationSlides.pdf)
 * Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **CoSMo: Intent-based Composition of Shader Modules**, Proceedings of International Conference on Computer Graphics Theory and Applications (Grapp 2014), [preprint: papers/Cosmo.pdf](/papers/Cosmo.pdf), print: http://www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004687201890199
 
-Student work
+Student work and colloborations
 --------------------------
 
 todo
