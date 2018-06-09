@@ -20,10 +20,11 @@ Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements wit
   [Talk at HPG 2013](/papers/LazyIncrementalComputationSlides.pdf)
 * Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **CoSMo: Intent-based Composition of Shader Modules**, Proceedings of International Conference on Computer Graphics Theory and Applications (Grapp 2014), [preprint: papers/Cosmo.pdf](/papers/Cosmo.pdf), print: http://www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004687201890199
 
-Student work and collaboration
+Student work & supervised thesis
 --------------------------
 
-todo
+* Constantin Matheis, Bachelorarbeit 2017, FH Technikum Wien, [preprint](/studentWork/Matheis_Patterns.pdf)
+* Silvia Bäs-Fischlmair, Bachelorarbeit 2018, FH Technikum Wien, [preprint](/studentWork/Baes-Fischlmair_ELM.pdf)
 
 Other non peer reviewed publications
 --------------------------
