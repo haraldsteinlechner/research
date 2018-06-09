@@ -23,8 +23,8 @@ Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements wit
 Student work & supervised thesis
 --------------------------
 
-* Constantin Matheis, Bachelorarbeit 2017, FH Technikum Wien, [preprint](/studentWork/Matheis_Patterns.pdf)
-* Silvia Bäs-Fischlmair, Bachelorarbeit 2018, FH Technikum Wien, [preprint](/studentWork/Baes-Fischlmair_ELM.pdf)
+* Constantin Matheis, Design Patterns in funktionalen Sprachen, Bachelorarbeit 2017, FH Technikum Wien, [preprint (german)](/studentWork/Matheis_Patterns.pdf)
+* Silvia Bäs-Fischlmair, Composable Functional User Interfaces using the ELM Architecture, Bachelorarbeit 2018, FH Technikum Wien, [preprint](/studentWork/Baes-Fischlmair_ELM.pdf)
 
 Other non peer reviewed publications
 --------------------------
