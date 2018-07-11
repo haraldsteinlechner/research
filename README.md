@@ -9,7 +9,7 @@ Peer reviewed publications:
 * Andreas Walch, Christian Luksch, Attila Szabo, Harald Steinlechner, Georg Haaser, Michael
 Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements with Real-Time Visualization” In: Proceedings of CGI 2018
 
-* Ortner, T, Sorger, J, Steinlechner, H, Hesina, G, Piringer, H, Gröller, E, “Vis-A-Ware: Integrating Spatial and Non-Spatial Visualization for Visibility-Aware Urban Planning”. In: IEEE Transactions on Visualization and Computer Graphics 2016 (2016).
+* Ortner, T, Sorger, J, Steinlechner, H, Hesina, G, Piringer, H, Gröller, E, “Vis-A-Ware: Integrating Spatial and Non-Spatial Visualization for Visibility-Aware Urban Planning”. In: IEEE Transactions on Visualization and Computer Graphics 2016 (2016), [preprint: papers/visaware.pdf](/papers/AnIncrementalRenderingVM.pdf), print: https://ieeexplore.ieee.org/document/7390069/
 
 * Georg Haaser, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **An Incremental Rendering VM**, to appear at HPG '15 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/AnIncrementalRenderingVM.pdf](/papers/AnIncrementalRenderingVM.pdf) print: http://dl.acm.org/citation.cfm?id=2790073
 
@@ -25,6 +25,7 @@ Student work & supervised thesis
 
 * Constantin Matheis, Design Patterns in funktionalen Sprachen, Bachelorarbeit 2017, FH Technikum Wien, [preprint (german)](/studentWork/Matheis_Patterns.pdf)
 * Silvia Bäs-Fischlmair, Composable Functional User Interfaces using the ELM Architecture, Bachelorarbeit 2018, FH Technikum Wien, [preprint](/studentWork/Baes-Fischlmair_ELM.pdf)
+* Jan Calanog, 	An Overview of Stateless vs Stateful Web Programming using React and Redux 2018, FH Technikum Wien, [preprint](/studentWork/calanog.pdf)
 
 Other non peer reviewed publications
 --------------------------
