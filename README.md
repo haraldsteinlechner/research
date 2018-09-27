@@ -7,7 +7,7 @@ This repository contains some papers, my thesis and other publications i would l
 Peer reviewed publications:
 --------------------------
 
-* T.Ortner, G.Haaser, H.Steinlechner, R.Barnes, S.Gupta, C.Traxler, G.Paar, "Immersive Visualization of Planetary Reconstructions for Geological Interpretation", EPSC Abstracts, Vol. 12, 2018, [prepring](/papers/PRO3D-VR.pdf)
+* T.Ortner, G.Haaser, H.Steinlechner, R.Barnes, S.Gupta, C.Traxler, G.Paar, "Immersive Visualization of Planetary Reconstructions for Geological Interpretation", EPSC Abstracts, Vol. 12, 2018, [preprint](/papers/PRO3D-VR.pdf)
 
 * Andreas Walch, Christian Luksch, Attila Szabo, Harald Steinlechner, Georg Haaser, Michael
 Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements with Real-Time Visualization” In: Proceedings of CGI 2018, [preprint](/papers/lensFlare.pdf), print: https://link.springer.com/article/10.1007/s00371-018-1552-4
