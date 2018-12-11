@@ -16,12 +16,15 @@ Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements wit
 
 * Georg Haaser, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **An Incremental Rendering VM**, to appear at HPG '15 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/AnIncrementalRenderingVM.pdf](/papers/AnIncrementalRenderingVM.pdf) print: http://dl.acm.org/citation.cfm?id=2790073
 
+* Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **CoSMo: Intent-based Composition of Shader Modules**, Proceedings of International Conference on Computer Graphics Theory and Applications (Grapp 2014), [preprint: papers/Cosmo.pdf](/papers/Cosmo.pdf), print: http://www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004687201890199, [authors page](https://aardvark-platform.github.io/lins/)
+
+* Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **Semantic Composition of Language-Integrated Shaders**, VISIGRAPP selected papers, Communications in Computer and Information Science, [preprint: papers/SemanticComposition.pdf](https://aardvark-platform.github.io/lins/paper-ccis.pdf), print: https://link.springer.com/chapter/10.1007/978-3-319-25117-2_4, [authors page](https://aardvark-platform.github.io/lins/)
+
 * Bernhard Urban, Harald Steinlechner, **Implementation of a Java Just-In-Time Compiler in Haskell**, PPPJ '13 Proceedings of the *2013* International Conference on Principles and Practices of Programming on the Java Platform: Virtual Machines, Languages, and Tools, [preprint: papers/MateVM.pdf](/papers/MateVM.pdf), [preprint, bernhards server](http://wien.tomnetworks.com/uni/2013_pppj_implementing_a_java_jit_compiler_in_haskell.pdf), print: http://dl.acm.org/citation.cfm?id=2500849
 
 * Michael Wörister, Harald Steinlechner, Stefan Maierhofer, Robert F. Tobler, **Lazy incremental computation for efficient scene graph rendering**, HPG '13 Proceedings of the 5th High-Performance Graphics Conference, [preprint: papers/LazyIncrementalComputation.pdf](/papers/LazyIncrementalComputation.pdf), print: http://dl.acm.org/citation.cfm?id=2492051
 
   [Talk at HPG 2013](/papers/LazyIncrementalComputationSlides.pdf)
-* Georg Haaser, Harald Steinlechner, Michael May, Michael Schwärzler, Stefan Maierhofer, Robert F. Tobler, **CoSMo: Intent-based Composition of Shader Modules**, Proceedings of International Conference on Computer Graphics Theory and Applications (Grapp 2014), [preprint: papers/Cosmo.pdf](/papers/Cosmo.pdf), print: http://www.scitepress.org/DigitalLibrary/Index/DOI/10.5220/0004687201890199
 
 Student work & supervised thesis
 --------------------------
