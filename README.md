@@ -12,7 +12,7 @@ GRAPP 2019 - Proceedings of the 14th International Conference on Computer Graphi
 
 * H. Steinlechner, G.Haaser, B. Oberdorfer, D. Habe, S. Maierhofer, M. Schwärzler, E. Gröller , "A Novel Approach for Immediate, Interactive CT Data Visualization and Evaluation using GPU-based Segmentation and Visual Analysis", to appear at 9th International Conference on Industrial Computed Tomogography, 13-15 Feb. 2019, Padua.
 
-* T.Ortner, G.Haaser, H.Steinlechner, R.Barnes, S.Gupta, C.Traxler, G.Paar, "Immersive Visualization of Planetary Reconstructions for Geological Interpretation", EPSC Abstracts, Vol. 12, 2018, [preprint](/papers/PRO3D-VR.pdf)
+* T.Ortner, G.Haaser, H.Steinlechner, R.Barnes, S.Gupta, C.Traxler, G.Paar, "Immersive Visualization of Planetary Reconstructions for Geological Interpretation", EPSC Abstracts, Vol. 12, 2018, [preprint](/papers/Pro3D-VR.pdf)
 
 * Andreas Walch, Christian Luksch, Attila Szabo, Harald Steinlechner, Georg Haaser, Michael
 Schwarzler, Stefan Maierhofer , "Lens Flare Prediction based on Measurements with Real-Time Visualization” In: Proceedings of CGI 2018, [preprint](/papers/lensFlare.pdf), print: https://link.springer.com/article/10.1007/s00371-018-1552-4
