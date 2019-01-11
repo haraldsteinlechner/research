@@ -10,7 +10,7 @@ Peer reviewed publications:
 * H. Steinlechner, G.Haaser, S. Maierhofer, R.F.Tobler, "Attribute Grammars for Incremental Scene Graph Rendering",  to appear at
 GRAPP 2019 - Proceedings of the 14th International Conference on Computer Graphics Theory and Applications, Prague, Czech Republic, 25-27 February, 2019.
 
-* H. Steinlechner, G.Haaser, B. Oberdorfer, D. Habe, S. Maierhofer, M. Schwärzler, E. Gröller , "A Novel Approach for Immediate, Interactive CT Data Visualization and Evaluation using GPU-based Segmentation and Visual Analysis", to appear at 9th International Conference on Industrial Computed Tomogography, 13-15 Feb. 2019, Padua.
+* H. Steinlechner, G.Haaser, B. Oberdorfer, D. Habe, S. Maierhofer, M. Schwärzler, E. Gröller , "A Novel Approach for Immediate, Interactive CT Data Visualization and Evaluation using GPU-based Segmentation and Visual Analysis", to appear at 9th International Conference on Industrial Computed Tomogography, 13-15 Feb. 2019, Padua, [preprint extended abstract](/papers/extended-abstract-ict19.pdf).
 
 * T.Ortner, G.Haaser, H.Steinlechner, R.Barnes, S.Gupta, C.Traxler, G.Paar, "Immersive Visualization of Planetary Reconstructions for Geological Interpretation", EPSC Abstracts, Vol. 12, 2018, [preprint](/papers/Pro3D-VR.pdf)
 
