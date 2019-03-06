@@ -7,6 +7,8 @@ This repository contains some papers, my thesis and other publications i would l
 Peer reviewed publications:
 --------------------------
 
+* H. Steinlechner, B. Rainer, M. Schwärzler, G. Haaser, A. Szabo, S. Maierhofer, M. Wimmer, „Adaptive Point-cloud Segmentation for Assisted Interactions“, Symposium on Interactive 3D Graphics and Games (I3D ’19), Montreal, QC, Canada, 21-23 May 2019
+
 * H. Steinlechner, G.Haaser, S. Maierhofer, R.F.Tobler, "Attribute Grammars for Incremental Scene Graph Rendering",  to appear at
 GRAPP 2019 - Proceedings of the 14th International Conference on Computer Graphics Theory and Applications, Prague, Czech Republic, 25-27 February, 2019.
 
